@@ -1,0 +1,2 @@
+isoMorphic strings
+MAP method to check diff strings
